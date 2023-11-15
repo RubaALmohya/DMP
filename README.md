@@ -9,13 +9,12 @@ This README file provides an overview of the project, including information abou
 The project aims to develop a comprehensive data classification and security policies and procedures document for Twauiq Academy. The document will provide guidelines and controls to ensure the protection and appropriate handling of sensitive data within the organization. Additionally, the project will define the data governance operating model to establish effective data management practices.
 
  ## Goals and Objectives
+ The primary goals of this project are:
+-	Establish a Data Classification Framework:
+Develop a systematic approach to classify data based on its sensitivity and criticality. This framework will help identify and prioritize data assets for appropriate security controls.
+-	Define Security Policies and Procedures:
+Create a set of comprehensive security policies and procedures that outline the acceptable use, handling, and protection of data within Twauiq Academy.
 
-The primary goals and objectives of the project are as follows:
-- 
-
-## Deliverables
-
-The project will deliver the following key deliverables:
 -
 
 ## Timeline
@@ -85,6 +84,7 @@ The project utilizes a database with several tables to store information about s
     
  ### ERD 
  ![image](https://github.com/RubaALmohya/DMP/assets/87912604/6c6f4b9e-a001-43f7-98b8-250b4d2c9c6b)
+![Recording-2023-11-15-130245](https://github.com/RubaALmohya/DMP/assets/87912604/36cb47d9-4a4c-4abd-b93b-93a856f59d90)
 
 ## Tools and Technologies
 
@@ -93,6 +93,7 @@ The project leverages various tools and technologies to facilitate development a
 - [Postgres]: [is an open-source, object-relational database management system (DBMS)]
 - [Openmetadata]: [is an open-source metadata management tool designed to help organizations manage and govern their data assets.]
   
+![Recording-2023-11-15-130245](https://github.com/RubaALmohya/DMP/assets/87912604/783d5bb7-48d0-4a6a-802d-2fd5b5525bda)
 
 ## Conclusion
 
