@@ -84,7 +84,7 @@ The project utilizes a database with several tables to store information about s
     
  ### ERD 
  ![image](https://github.com/RubaALmohya/DMP/assets/87912604/6c6f4b9e-a001-43f7-98b8-250b4d2c9c6b)
-![Recording-2023-11-15-130245](https://github.com/RubaALmohya/DMP/assets/87912604/36cb47d9-4a4c-4abd-b93b-93a856f59d90)
+
 
 ## Tools and Technologies
 
@@ -92,7 +92,7 @@ The project leverages various tools and technologies to facilitate development a
 
 - [Postgres]: [is an open-source, object-relational database management system (DBMS)]
 - [Openmetadata]: [is an open-source metadata management tool designed to help organizations manage and govern their data assets.]
-  
+  ![Recording-2023-11-15-130245](https://github.com/RubaALmohya/DMP/assets/87912604/36cb47d9-4a4c-4abd-b93b-93a856f59d90)
 ![Recording-2023-11-15-130245](https://github.com/RubaALmohya/DMP/assets/87912604/783d5bb7-48d0-4a6a-802d-2fd5b5525bda)
 
 ## Conclusion
