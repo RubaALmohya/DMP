@@ -27,8 +27,12 @@ The project is expected to be completed within [estimated timeline].
 The project is being developed and maintained by a team of dedicated individuals. The team members and their roles are as follows:
 
 - [Ruba Almuhya]: [Technical side ]
-- [Manar Alahaimid]: [Classification policy writing + design]
-- [Team Member 3]: [Role/Responsibilities]
+- [Manar Alahaimid]: 
+- Ruba A. Almuhya: [Technical side, Framework design, Document ]
+- Mariam M. Albenyan: [Classification policy writing, Framework, design]
+-  Shouq Almutairi: [Business Glossary ]
+-  Manar Alahaimid: [Presentation, writing document]
+-  Rand Almajmaj: [writing document]
 
 Feel free to reach out to any team member if you have questions, suggestions, or would like to contribute to the project.
 
