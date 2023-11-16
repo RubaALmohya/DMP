@@ -1,4 +1,5 @@
 # DMP
+![download (1)](https://github.com/RubaALmohya/DMP/assets/87912604/5176e505-5d9e-4cfe-b000-c136ad7143ce)
 
 ## Overview
 
@@ -19,7 +20,7 @@ Create a set of comprehensive security policies and procedures that outline the 
 
 ## Timeline
 
-The project is expected to be completed within [estimated timeline]. 
+The project is expected to be completed within 4 Days. 
 
 
 ## Team
