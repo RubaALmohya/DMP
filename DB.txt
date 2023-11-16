@@ -1,0 +1,52 @@
+
+
+-- جدول الطلاب
+CREATE TABLE students (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(50),
+  nationality VARCHAR(50),
+  university VARCHAR(100),
+  major VARCHAR(100),
+  graduation_date DATE,
+  date_of_birth DATE,
+  email VARCHAR(100),
+  phone_number VARCHAR(20),
+  gender VARCHAR(10),
+  address VARCHAR(200)
+);
+
+-- جدول الموظفين
+CREATE TABLE employees (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(50),
+  nationality VARCHAR(50),
+  gender VARCHAR(10),
+  department VARCHAR(100),
+  joining_date DATE,
+  salary DECIMAL(10, 2),
+  job_type VARCHAR(50)
+);
+
+-- جدول البرامج
+CREATE TABLE programs (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(100),
+  number_of_students INT,
+  program_level VARCHAR(50),
+  program_type VARCHAR(50),
+  program_duration INT
+);
+
+-- جدول الطلاب والبرامج (الارتباط)
+CREATE TABLE student_programs (
+  student_id INT REFERENCES students(id),
+  program_id INT REFERENCES programs(id),
+  PRIMARY KEY (student_id, program_id)
+);
+
+-- جدول الموظفين والبرامج (الارتباط)
+CREATE TABLE employee_programs (
+  employee_id INT REFERENCES employees(id),
+  program_id INT REFERENCES programs(id),
+  PRIMARY KEY (employee_id, program_id)
+);
