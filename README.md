@@ -1,5 +1,5 @@
 # DMP
-![download (1)](https://github.com/RubaALmohya/DMP/assets/87912604/5176e505-5d9e-4cfe-b000-c136ad7143ce) ![download (2)](https://github.com/RubaALmohya/DMP/assets/87912604/c0a30c99-ecd4-4be5-b46f-1ee7609d1e7c)
+![download (1)](https://github.com/RubaALmohya/DMP/assets/87912604/5176e505-5d9e-4cfe-b000-c136ad7143ce)
 
 
 ## Overview
