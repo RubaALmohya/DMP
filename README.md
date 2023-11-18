@@ -28,8 +28,6 @@ The project is expected to be completed within 4 Days.
 
 The project is being developed and maintained by a team of dedicated individuals. The team members and their roles are as follows:
 
-- [Ruba Almuhya]: [Technical side ]
-- [Manar Alahaimid]: 
 - Ruba A. Almuhya: [Technical side, Framework design, Document ]
 - Mariam M. Albenyan: [Classification policy writing, Framework, design]
 -  Shouq Almutairi: [Business Glossary ]
